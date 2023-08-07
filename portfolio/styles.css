@@ -1,0 +1,131 @@
+*{
+     margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url("portmaterial/background.png");
+}
+
+
+.shivam
+{
+
+    position: relative;
+    width: 100%;
+    height: 100vh;
+   
+   
+}
+ #myid 
+{
+top:0;}
+nav
+{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li
+{
+    display: inline-block;
+    list-style: none;
+    margin: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+    font-weight: bold;
+}
+nav ul li a:hover
+{  background-color: white;
+    color: blueviolet;
+    box-shadow: 10px 10px 10px blue;
+}
+.shivam1 
+{
+    margin-left: 50px;
+    margin-top: 13%;
+
+}
+.shivam1 h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+.shivam1 p{
+    font-size: 1.5rem;
+}
+ span{
+    color: orange;
+
+ }
+ .shivam1 p{
+    color: #555;
+    line-height: 22px;
+ }
+ .shivam1 a{
+    background: #212121;
+    padding: 10px 18px ;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 7px;
+
+}
+.images
+{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+}
+.images img
+{
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: bottom 1s,left 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
